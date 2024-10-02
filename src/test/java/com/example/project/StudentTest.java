@@ -73,13 +73,4 @@ public class StudentTest {
         boolean studentOutput = s.isPassing();
         assertEquals(expectedOutput,studentOutput);
     }
-
-
-
-
-
-
-
-  
-    
 }
